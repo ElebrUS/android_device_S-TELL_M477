@@ -1,0 +1,2 @@
+add_lunch_combo cm_M477-eng
+add_lunch_combo cm_M477-userdebug
