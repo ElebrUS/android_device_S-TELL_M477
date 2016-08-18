@@ -1,5 +1,6 @@
 S-TELL M477
 ==============
+![S-TELL](http://s-tell.ua/2139-thickbox_default/s-tell-m477-black.jpg "S-TELL M477 Black")
 
 Basic   | Spec Sheet
 -------:|:-------------------------
