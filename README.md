@@ -5,7 +5,7 @@ S-TELL M477
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | 1.3GHz Quad-Core MT6580
-GPU     | Mali-400MP
+GPU     | Mali-400MP1
 Memory  | 1GB RAM
 Shipped Android Version | 5.1
 Storage | 8GB
