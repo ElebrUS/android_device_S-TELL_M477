@@ -1,10 +1,15 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
+LOCAL_PATH := device/S-TELL/M477
+
+# overlays
+DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
+
 #Google's prebuilt WebView
-PRODUCT_PACKAGES += \
-	libwebviewchromium_plat_support \
-	libwebviewchromium_loader
+#PRODUCT_PACKAGES += \
+#	libwebviewchromium_plat_support \
+#	libwebviewchromium_loader
 
 # The gps config appropriate for this device
 $(call inherit-product, device/common/gps/gps_us_supl.mk)
