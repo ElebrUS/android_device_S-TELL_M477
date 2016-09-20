@@ -28,5 +28,6 @@ Working:
 -    GPS
 -    HW composer
 -    Sleep
+-    
 Not working/Bugs:
 -   YouTube 360p
